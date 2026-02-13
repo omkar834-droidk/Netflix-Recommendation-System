@@ -60,16 +60,22 @@ The system analyzes movie metadata and suggests similar movies using cosine simi
 
 
 📁 Netflix-Movie-Recommendation
+## 📁 Project Structure
+
+```
+Netflix-Movie-Recommendation/
 │
 ├── data/
-│ └── netflix_movies.csv
+│   └── netflix_movies.csv
 │
 ├── notebooks/
-│ └── model_building.ipynb
+│   └── model_building.ipynb
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
+
 
 
 ---
