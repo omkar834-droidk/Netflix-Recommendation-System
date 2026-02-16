@@ -2,7 +2,7 @@
 ### Intelligent Content Discovery Engine  
 
 🔗 **Live Demo:**  
-https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
+    https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
 ---
 
@@ -27,13 +27,13 @@ It analyzes movie descriptions using TF-IDF vectorization and recommends similar
 
 ## 🛠 Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- NLP (TF-IDF)
-- Streamlit
-- Git & GitHub
+    - Python
+    - Pandas
+    - NumPy
+    - Scikit-learn
+    - NLP (TF-IDF)
+    - Streamlit
+    - Git & GitHub
 
 ---
 
@@ -49,23 +49,15 @@ It analyzes movie descriptions using TF-IDF vectorization and recommends similar
 
 ## 📂 Project Structure
 
-Netflix-Recommendation-System/
-
-│
-
-├── app.py
-
-├── df.pkl
-
-├── tidf_matrix.pkl
-
-├── movie_indices.pkl
-
-├── requirements.txt
-
-├── main.ipynb
-
-└── README.md
+    Netflix-Recommendation-System/
+    │
+    ├── app.py
+    ├── df.pkl
+    ├── tidf_matrix.pkl
+    ├── movie_indices.pkl
+    ├── requirements.txt
+    ├── main.ipynb
+    └── README.md
 
 
 ---
@@ -74,18 +66,18 @@ Netflix-Recommendation-System/
 
 Clone the repository:
 
-git clone https://github.com/omkar834-droidk/Netflix-Recommendation-System.git
-cd Netflix-Recommendation-System
+    git clone https://github.com/omkar834-droidk/Netflix-Recommendation-System.git
+    cd Netflix-Recommendation-System
 
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 Run the app:
 
-streamlit run app.py
+    streamlit run app.py
 
 
 ---
@@ -102,9 +94,9 @@ streamlit run app.py
 
 ## 👨‍💻 Developed By
 
-**Omkar Salunke**  
-AI & Data Science Enthusiast  
-GitHub: https://github.com/omkar834-droidk
+         Omkar Salunke  
+    AI & Data Science Enthusiast  
+    GitHub: https://github.com/omkar834-droidk
 
 ---
 
