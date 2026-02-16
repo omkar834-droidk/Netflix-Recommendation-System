@@ -50,13 +50,21 @@ It analyzes movie descriptions using TF-IDF vectorization and recommends similar
 ## 📂 Project Structure
 
 Netflix-Recommendation-System/
+
 │
+
 ├── app.py
+
 ├── df.pkl
+
 ├── tidf_matrix.pkl
+
 ├── movie_indices.pkl
+
 ├── requirements.txt
+
 ├── main.ipynb
+
 └── README.md
 
 
