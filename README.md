@@ -1,112 +1,105 @@
-# Netflix-Recommendation-System
- Machine Learning project using NLP
+# 🎬 Aurora Recommender AI  
+### Intelligent Content Discovery Engine  
 
+🔗 **Live Demo:**  
+https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
-# 🎬 Netflix Movie Recommendation System
+---
 
 ## 📌 Project Overview
 
-The Netflix Movie Recommendation System is designed to suggest movies to users based on similarity and content features.
-
-This project uses Natural Language Processing (NLP) and Machine Learning techniques to recommend movies based on:
-
-- Genre
-- Cast
-- Director
-- Movie Description
-- Keywords
-
-The system analyzes movie metadata and suggests similar movies using cosine similarity.
+Aurora Recommender AI is a content-based movie recommendation system built using NLP techniques and cosine similarity.  
+It analyzes movie descriptions using TF-IDF vectorization and recommends similar movies instantly through a professional Streamlit interface.
 
 ---
 
-## 🎯 Objectives
+## 🚀 Key Features
 
-- Clean and preprocess movie dataset
-- Perform text feature extraction using NLP techniques
-- Build content-based recommendation system
-- Recommend top similar movies based on user input
-- Deploy using Streamlit (Optional)
-
----
-
-## 🧠 Approach
-
-1. Data Cleaning & Preprocessing  
-2. Combine important text features (genre, cast, overview)  
-3. Apply TF-IDF / Count Vectorizer  
-4. Compute Cosine Similarity  
-5. Recommend Top 5 Similar Movies  
+- 🎯 Content-Based Movie Recommendation
+- 🧠 TF-IDF Vectorization (NLP)
+- 📊 Cosine Similarity Scoring
+- 💻 Professional Streamlit UI
+- ⚡ Real-Time Recommendation Engine
+- 📈 Similarity Percentage Display
+- 🌐 Fully Deployed Web Application
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Tech Stack
 
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- NLTK
-- Streamlit (for deployment)
-- Plotly (for visualization)
+- NLP (TF-IDF)
+- Streamlit
+- Git & GitHub
+
+---
+
+## ⚙️ How It Works
+
+1. Movie metadata is processed and cleaned.
+2. Text data is converted into TF-IDF vectors.
+3. Cosine similarity is calculated between movies.
+4. Top similar movies are ranked and displayed.
+5. Results are shown in a clean UI with similarity scores.
 
 ---
 
 ## 📂 Project Structure
 
-
-
-
-
-
-📁 Netflix-Movie-Recommendation
-## 📁 Project Structure
-
-```
-Netflix-Movie-Recommendation/
-│
-├── data/
-│   └── netflix_movies.csv
-│
-├── notebooks/
-│   └── model_building.ipynb
+Netflix-Recommendation-System/
 │
 ├── app.py
+├── df.pkl
+├── tidf_matrix.pkl
+├── movie_indices.pkl
 ├── requirements.txt
+├── main.ipynb
 └── README.md
-```
-
 
 
 ---
 
-## 📊 Recommendation Logic
+## ▶️ Run Locally
 
-- Convert text data into numerical vectors using TF-IDF
-- Calculate cosine similarity between movies
-- Return top 5 most similar movies
+Clone the repository:
 
----
+git clone https://github.com/omkar834-droidk/Netflix-Recommendation-System.git
+cd Netflix-Recommendation-System
 
-## 🚀 Features
 
-- Search movie by name
-- Get top 5 similar movie recommendations
-- Clean user interface
-- Interactive dashboard
+Install dependencies:
 
----
+pip install -r requirements.txt
 
-## 🔮 Future Enhancements
 
-- Collaborative Filtering
-- Hybrid Recommendation System
-- Deep Learning based recommendation
-- Personalized user recommendation
+Run the app:
+
+streamlit run app.py
+
 
 ---
 
-## 👨‍💻 Author
+## 🎯 Future Improvements
 
-Omkar Salunke  
-Aspiring Data Scientist | NLP & Recommendation Systems Enthusiast
+- Add Movie Posters (TMDB API)
+- Implement Hybrid Recommendation (Content + Collaborative)
+- Upgrade to BERT / Sentence Transformers
+- Add Genre Filtering
+- Improve Personalization
+
+---
+
+## 👨‍💻 Developed By
+
+**Omkar Salunke**  
+AI & Data Science Enthusiast  
+GitHub: https://github.com/omkar834-droidk
+
+---
+
+## ⭐ If You Like This Project
+
+Give this repository a star ⭐ to support the work!
