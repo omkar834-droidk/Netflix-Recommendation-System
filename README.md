@@ -49,35 +49,33 @@ It analyzes movie descriptions using TF-IDF vectorization and recommends similar
 
 ## 📂 Project Structure
 
-Netflix-Recommendation-System/
-│
-├── app.py
-├── df.pkl
-├── tidf_matrix.pkl
-├── movie_indices.pkl
-├── requirements.txt
-├── main.ipynb
-└── README.md
+    Netflix-Recommendation-System/
+    │
+    ├── app.py
+    ├── df.pkl
+    ├── tidf_matrix.pkl
+    ├── movie_indices.pkl
+    ├── requirements.txt
+    ├── main.ipynb
+    └── README.md
 
 
 ---
 
 ## ▶️ Run Locally
 
-Clone the repository:
 
-git clone https://github.com/omkar834-droidk/Netflix-Recommendation-System.git
-cd Netflix-Recommendation-System
+     cd Netflix-Recommendation-System
 
 
 Install dependencies:
 
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 
 Run the app:
 
-streamlit run app.py
+    streamlit run app.py
 
 
 ---
