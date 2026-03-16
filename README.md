@@ -22,13 +22,46 @@ The project is deployed using **Streamlit**, providing a clean and interactive u
 
 # 🚀 Key Features
 
-✨ Content-Based Recommendation System
-🧠 TF-IDF Vectorization for NLP
-📊 Cosine Similarity Recommendation Engine
-⚡ Real-Time Movie Recommendations
-🎨 Interactive Streamlit Interface
-📈 Similarity Score Display
-🌐 Fully Deployed Web Application
+### 🎯 Intelligent Movie Recommendation
+
+Smart <span style="color:#ff4b4b"><b>Content-Based Recommendation System</b></span> that suggests movies based on storyline similarity.
+
+---
+
+### 🧠 Natural Language Processing
+
+Uses <span style="color:#4CAF50"><b>TF-IDF Vectorization</b></span> to convert movie descriptions into numerical feature vectors.
+
+---
+
+### 📊 Similarity Engine
+
+Calculates <span style="color:#f39c12"><b>Cosine Similarity Scores</b></span> between movies to find the most relevant recommendations.
+
+---
+
+### ⚡ Real-Time Recommendation
+
+Users receive <span style="color:#00bcd4"><b>Instant Movie Recommendations</b></span> through the interactive interface.
+
+---
+
+### 🎨 Interactive Web Interface
+
+Clean and responsive <span style="color:#ff2d55"><b>Streamlit Web Application</b></span> for a smooth user experience.
+
+---
+
+### 📈 Similarity Score Visualization
+
+Displays <span style="color:#9c27b0"><b>Similarity Percentage</b></span> between recommended movies for better interpretability.
+
+---
+
+### 🌐 Fully Deployed Application
+
+Accessible online through <span style="color:#ff9800"><b>Streamlit Cloud Deployment</b></span>.
+
 
 ---
 
