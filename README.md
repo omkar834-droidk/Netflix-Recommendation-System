@@ -20,48 +20,21 @@ The project is deployed using **Streamlit**, providing a clean and interactive u
 
 ---
 
-# 🚀 Key Features
+## 🚀 Key Features
 
-### 🎯 Intelligent Movie Recommendation
+• 🎯 <span style="color:#ff4b4b"><b>Content-Based Movie Recommendation System</b></span> that suggests movies based on storyline similarity.
 
-Smart <span style="color:#ff4b4b"><b>Content-Based Recommendation System</b></span> that suggests movies based on storyline similarity.
+• 🧠 Uses <span style="color:#2ecc71"><b>TF-IDF Vectorization</b></span> for advanced <span style="color:#3498db"><b>Natural Language Processing</b></span> of movie descriptions.
 
----
+• 📊 Calculates <span style="color:#f1c40f"><b>Cosine Similarity Scores</b></span> to identify highly similar movies.
 
-### 🧠 Natural Language Processing
+• ⚡ Provides <span style="color:#00c4ff"><b>Real-Time Movie Recommendations</b></span> through an interactive interface.
 
-Uses <span style="color:#4CAF50"><b>TF-IDF Vectorization</b></span> to convert movie descriptions into numerical feature vectors.
+• 🎨 Built with a <span style="color:#ff2d96"><b>Professional Streamlit Web UI</b></span> for smooth user experience.
 
----
+• 📈 Displays <span style="color:#9b59b6"><b>Similarity Percentage</b></span> between recommended movies.
 
-### 📊 Similarity Engine
-
-Calculates <span style="color:#f39c12"><b>Cosine Similarity Scores</b></span> between movies to find the most relevant recommendations.
-
----
-
-### ⚡ Real-Time Recommendation
-
-Users receive <span style="color:#00bcd4"><b>Instant Movie Recommendations</b></span> through the interactive interface.
-
----
-
-### 🎨 Interactive Web Interface
-
-Clean and responsive <span style="color:#ff2d55"><b>Streamlit Web Application</b></span> for a smooth user experience.
-
----
-
-### 📈 Similarity Score Visualization
-
-Displays <span style="color:#9c27b0"><b>Similarity Percentage</b></span> between recommended movies for better interpretability.
-
----
-
-### 🌐 Fully Deployed Application
-
-Accessible online through <span style="color:#ff9800"><b>Streamlit Cloud Deployment</b></span>.
-
+• 🌐 Fully deployed as a <span style="color:#e67e22"><b>Live Web Application</b></span>.
 
 ---
 
