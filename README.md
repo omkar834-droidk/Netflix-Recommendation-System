@@ -78,43 +78,50 @@ Fully deployed as a **live web application** accessible online.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Programming Language
+### 📊 Data Processing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-### Data Processing
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
-
----
-
-### Machine Learning
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+</p>
 
 ---
 
-### Natural Language Processing
+### 🤖 Machine Learning
 
-![TF-IDF](https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge)
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-### Web Framework
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+</p>
 
 ---
 
-### Version Control
+### 🧠 Natural Language Processing
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+<p align="left">
+
+<img src="https://img.shields.io/badge/NLP-Feature%20Extraction-gray?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TF--IDF-Vectorization-84cc16?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🌐 Web Framework
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
 
 ---
 
