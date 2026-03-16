@@ -32,7 +32,7 @@ https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
 Smart **Content-Based Movie Recommendation System** that suggests movies based on storyline similarity.
 
----
+
 
 ### 🧠 Natural Language Processing
 
@@ -40,7 +40,7 @@ Smart **Content-Based Movie Recommendation System** that suggests movies based o
 
 Movie descriptions are transformed using **TF-IDF Vectorization** for advanced **Natural Language Processing**.
 
----
+
 
 ### 📊 Similarity Algorithm
 
@@ -48,7 +48,7 @@ Movie descriptions are transformed using **TF-IDF Vectorization** for advanced *
 
 The system calculates **Cosine Similarity Scores** to identify highly similar movies.
 
----
+
 
 ### ⚡ Real-Time Recommendations
 
@@ -56,7 +56,7 @@ The system calculates **Cosine Similarity Scores** to identify highly similar mo
 
 Users receive **instant movie recommendations** through an interactive system.
 
----
+
 
 ### 🎨 Interactive Web UI
 
@@ -64,7 +64,7 @@ Users receive **instant movie recommendations** through an interactive system.
 
 Built using a **Professional Streamlit Web Interface** for smooth user experience.
 
----
+
 
 ### 📈 Similarity Visualization
 
@@ -72,7 +72,7 @@ Built using a **Professional Streamlit Web Interface** for smooth user experienc
 
 Displays **similarity percentage** between recommended movies.
 
----
+
 
 ### 🌐 Deployment
 
