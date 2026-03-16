@@ -24,35 +24,62 @@ https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
 ---
 
-# 🚀 Key Features
+## 🚀 Key Features
 
 ### 🎯 Recommendation Engine
 
+![Recommendation](https://img.shields.io/badge/System-Content%20Based%20Recommendation-red?style=for-the-badge)
+
 Smart **Content-Based Movie Recommendation System** that suggests movies based on storyline similarity.
+
+---
 
 ### 🧠 Natural Language Processing
 
-Uses **TF-IDF Vectorization** to convert movie descriptions into numerical feature vectors.
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20Vectorization-green?style=for-the-badge)
+
+Movie descriptions are transformed using **TF-IDF Vectorization** for advanced **Natural Language Processing**.
+
+---
 
 ### 📊 Similarity Algorithm
 
-Calculates **Cosine Similarity Scores** to identify highly similar movies.
+![Algorithm](https://img.shields.io/badge/Algorithm-Cosine%20Similarity-yellow?style=for-the-badge)
 
-### ⚡ Real-Time Recommendation
+The system calculates **Cosine Similarity Scores** to identify highly similar movies.
 
-Provides **instant movie recommendations** through an interactive interface.
+---
+
+### ⚡ Real-Time Recommendations
+
+![Realtime](https://img.shields.io/badge/Engine-Real%20Time%20Recommendations-blue?style=for-the-badge)
+
+Users receive **instant movie recommendations** through an interactive system.
+
+---
 
 ### 🎨 Interactive Web UI
 
+![Streamlit](https://img.shields.io/badge/UI-Streamlit%20Application-pink?style=for-the-badge\&logo=streamlit)
+
 Built using a **Professional Streamlit Web Interface** for smooth user experience.
+
+---
 
 ### 📈 Similarity Visualization
 
+![Analytics](https://img.shields.io/badge/Visualization-Similarity%20Percentage-purple?style=for-the-badge)
+
 Displays **similarity percentage** between recommended movies.
 
-### 🌐 Web Application Deployment
+---
 
-Fully deployed as a **live Streamlit web application**.
+### 🌐 Deployment
+
+![Deployment](https://img.shields.io/badge/Deployment-Live%20Web%20Application-orange?style=for-the-badge)
+
+Fully deployed as a **live web application** accessible online.
+
 
 ---
 
