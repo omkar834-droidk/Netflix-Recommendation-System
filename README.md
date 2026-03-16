@@ -19,22 +19,62 @@ The system analyzes movie descriptions using **TF-IDF vectorization** and calcul
 The project is deployed using **Streamlit**, providing a clean and interactive user interface for exploring recommendations.
 
 ---
-
 ## 🚀 Key Features
 
-• 🎯 <span style="color:#ff4b4b"><b>Content-Based Movie Recommendation System</b></span> that suggests movies based on storyline similarity.
+### 🎯 Recommendation Engine
 
-• 🧠 Uses <span style="color:#2ecc71"><b>TF-IDF Vectorization</b></span> for advanced <span style="color:#3498db"><b>Natural Language Processing</b></span> of movie descriptions.
+![Recommendation](https://img.shields.io/badge/System-Content%20Based%20Recommendation-red?style=for-the-badge)
 
-• 📊 Calculates <span style="color:#f1c40f"><b>Cosine Similarity Scores</b></span> to identify highly similar movies.
+Smart **Content-Based Movie Recommendation System** that suggests movies based on storyline similarity.
 
-• ⚡ Provides <span style="color:#00c4ff"><b>Real-Time Movie Recommendations</b></span> through an interactive interface.
+---
 
-• 🎨 Built with a <span style="color:#ff2d96"><b>Professional Streamlit Web UI</b></span> for smooth user experience.
+### 🧠 Natural Language Processing
 
-• 📈 Displays <span style="color:#9b59b6"><b>Similarity Percentage</b></span> between recommended movies.
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20Vectorization-green?style=for-the-badge)
 
-• 🌐 Fully deployed as a <span style="color:#e67e22"><b>Live Web Application</b></span>.
+Movie descriptions are transformed using **TF-IDF Vectorization** for advanced **Natural Language Processing**.
+
+---
+
+### 📊 Similarity Algorithm
+
+![Algorithm](https://img.shields.io/badge/Algorithm-Cosine%20Similarity-yellow?style=for-the-badge)
+
+The system calculates **Cosine Similarity Scores** to identify highly similar movies.
+
+---
+
+### ⚡ Real-Time Recommendations
+
+![Realtime](https://img.shields.io/badge/Engine-Real%20Time%20Recommendations-blue?style=for-the-badge)
+
+Users receive **instant movie recommendations** through an interactive system.
+
+---
+
+### 🎨 Interactive Web UI
+
+![Streamlit](https://img.shields.io/badge/UI-Streamlit%20Application-pink?style=for-the-badge\&logo=streamlit)
+
+Built using a **Professional Streamlit Web Interface** for smooth user experience.
+
+---
+
+### 📈 Similarity Visualization
+
+![Analytics](https://img.shields.io/badge/Visualization-Similarity%20Percentage-purple?style=for-the-badge)
+
+Displays **similarity percentage** between recommended movies.
+
+---
+
+### 🌐 Deployment
+
+![Deployment](https://img.shields.io/badge/Deployment-Live%20Web%20Application-orange?style=for-the-badge)
+
+Fully deployed as a **live web application** accessible online.
+
 
 ---
 
