@@ -1,105 +1,214 @@
-# 🎬 Aurora Recommender AI  
-### Intelligent Content Discovery Engine  
+<!-- PROJECT BANNER -->
 
-🔗 **Live Demo:**  
-https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
+<p align="center">
+
+# 🎬 Aurora Recommender AI
+
+### Intelligent Content Discovery Engine
+
+</p>
+
+<p align="center">
+
+A **Content-Based Movie Recommendation System** built using **Natural Language Processing (NLP)** and **Cosine Similarity** to suggest similar movies instantly.
+
+</p>
 
 ---
 
-## 📌 Project Overview
+# 🌐 Live Demo
 
-Aurora Recommender AI is a content-based movie recommendation system built using NLP techniques and cosine similarity.  
-It analyzes movie descriptions using TF-IDF vectorization and recommends similar movies instantly through a professional Streamlit interface.
+🚀 Try the deployed application
+
+https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
 ---
 
 ## 🚀 Key Features
 
-- 🎯 Content-Based Movie Recommendation
-- 🧠 TF-IDF Vectorization (NLP)
-- 📊 Cosine Similarity Scoring
-- 💻 Professional Streamlit UI
-- ⚡ Real-Time Recommendation Engine
-- 📈 Similarity Percentage Display
-- 🌐 Fully Deployed Web Application
+### 🎯 Recommendation Engine
+
+![Recommendation](https://img.shields.io/badge/System-Content%20Based%20Recommendation-red?style=for-the-badge)
+
+Smart **Content-Based Movie Recommendation System** that suggests movies based on storyline similarity.
+
+---
+
+### 🧠 Natural Language Processing
+
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20Vectorization-green?style=for-the-badge)
+
+Movie descriptions are transformed using **TF-IDF Vectorization** for advanced **Natural Language Processing**.
+
+---
+
+### 📊 Similarity Algorithm
+
+![Algorithm](https://img.shields.io/badge/Algorithm-Cosine%20Similarity-yellow?style=for-the-badge)
+
+The system calculates **Cosine Similarity Scores** to identify highly similar movies.
+
+---
+
+### ⚡ Real-Time Recommendations
+
+![Realtime](https://img.shields.io/badge/Engine-Real%20Time%20Recommendations-blue?style=for-the-badge)
+
+Users receive **instant movie recommendations** through an interactive system.
+
+---
+
+### 🎨 Interactive Web UI
+
+![Streamlit](https://img.shields.io/badge/UI-Streamlit%20Application-pink?style=for-the-badge\&logo=streamlit)
+
+Built using a **Professional Streamlit Web Interface** for smooth user experience.
+
+---
+
+### 📈 Similarity Visualization
+
+![Analytics](https://img.shields.io/badge/Visualization-Similarity%20Percentage-purple?style=for-the-badge)
+
+Displays **similarity percentage** between recommended movies.
+
+---
+
+### 🌐 Deployment
+
+![Deployment](https://img.shields.io/badge/Deployment-Live%20Web%20Application-orange?style=for-the-badge)
+
+Fully deployed as a **live web application** accessible online.
+
 
 ---
 
 ## 🛠 Tech Stack
 
+### 📊 Data Processing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-## ⚙️ How It Works
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-1. Movie metadata is processed and cleaned.
-2. Text data is converted into TF-IDF vectors.
-3. Cosine similarity is calculated between movies.
-4. Top similar movies are ranked and displayed.
-5. Results are shown in a clean UI with similarity scores.
+</p>
 
 ---
 
-## 📂 Project Structure
+### 🤖 Machine Learning
 
-    Netflix-Recommendation-System/
-    │
-    ├── app.py
-    ├── df.pkl
-    ├── tidf_matrix.pkl
-    ├── movie_indices.pkl
-    ├── requirements.txt
-    ├── main.ipynb
-    └── README.md
+<p align="left">
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
 
 ---
 
-## ▶️ Run Locally
+### 🧠 Natural Language Processing
 
+<p align="left">
 
-     cd Netflix-Recommendation-System
+<img src="https://img.shields.io/badge/NLP-Feature%20Extraction-gray?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/TF--IDF-Vectorization-84cc16?style=for-the-badge"/>
 
-Install dependencies:
+</p>
 
-     pip install -r requirements.txt
+---
 
+### 🌐 Web Framework
 
-Run the app:
+<p align="left">
 
-    streamlit run app.py
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
 
 
 ---
 
-## 🎯 Future Improvements
+# ⚙️ System Architecture
 
-- Add Movie Posters (TMDB API)
-- Implement Hybrid Recommendation (Content + Collaborative)
-- Upgrade to BERT / Sentence Transformers
-- Add Genre Filtering
-- Improve Personalization
+<p align="center">
+
+User Input
+↓
+Movie Title Selection
+↓
+TF-IDF Vectorization
+↓
+Cosine Similarity Calculation
+↓
+Top Similar Movies Ranking
+↓
+Streamlit Interface Display
+
+</p>
 
 ---
 
-## 👨‍💻 Developed By
+# 📂 Project Structure
 
-**Omkar Salunke**  
-AI & Data Science Enthusiast  
-GitHub: https://github.com/omkar834-droidk
+```text
+Netflix-Recommendation-System
+│
+├── app.py
+├── main.ipynb
+├── df.pkl
+├── tfidf_matrix.pkl
+├── movie_indices.pkl
+├── requirements.txt
+└── README.md
+```
 
 ---
 
-## ⭐ If You Like This Project
+# ▶️ Run Locally
 
-Give this repository a star ⭐ to support the work!
+Clone the repository
+
+```
+git clone https://github.com/omkar834-droidk/Netflix-Recommendation-System.git
+cd Netflix-Recommendation-System
+```
+
+Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+Run the application
+
+```
+streamlit run app.py
+```
+
+---
+
+# 🎯 Future Improvements
+
+🚀 Add Movie Posters using TMDB API
+🚀 Hybrid Recommendation System
+🚀 Personalized User Recommendations
+🚀 Transformer-Based NLP Embeddings
+🚀 Genre Filtering
+
+---
+
+# 👨‍💻 Author
+
+**Omkar Salunke**
+AI & Data Science Enthusiast
+
+GitHub
+https://github.com/omkar834-droidk
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub**.
