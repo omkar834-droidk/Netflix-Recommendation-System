@@ -24,18 +24,6 @@ https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
 ---
 
-# 🎬 Demo Preview
-
-<p align="center">
-
-<!-- Replace with your GIF later -->
-
-![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J4bWptNjRpbzBzcmN0N2R3ZHRnZWRxdDJzZnJydHdyZm10cDVoZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
-
-</p>
-
----
-
 # 🚀 Key Features
 
 ### 🎯 Recommendation Engine
@@ -68,15 +56,15 @@ Fully deployed as a **live Streamlit web application**.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 📊 Data Processing
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </p>
 
@@ -84,7 +72,7 @@ Fully deployed as a **live Streamlit web application**.
 
 ### 🤖 Machine Learning
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
@@ -94,7 +82,7 @@ Fully deployed as a **live Streamlit web application**.
 
 ### 🧠 Natural Language Processing
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/NLP-Feature%20Extraction-gray?style=for-the-badge"/>
 
@@ -106,11 +94,12 @@ Fully deployed as a **live Streamlit web application**.
 
 ### 🌐 Web Framework
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
+
 
 ---
 
