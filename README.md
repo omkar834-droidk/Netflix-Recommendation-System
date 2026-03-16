@@ -2,11 +2,9 @@
 
 ### Intelligent Movie Recommendation Engine 🚀
 
----
 
-## 🌐 Live Demo
 
-🔗 https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
+
 
 ---
 
@@ -171,7 +169,9 @@ Run the application
 ```
 streamlit run app.py
 ```
+## 🌐 Live Demo
 
+🔗 https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 ---
 
 # 🎯 Future Improvements
