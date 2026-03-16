@@ -1,119 +1,146 @@
 # 🎬 Aurora Recommender AI
 
-### Intelligent Movie Recommendation Engine
+### Intelligent Movie Recommendation Engine 🚀
 
 ---
 
-## 📌 Project Overview
+## 🌐 Live Demo
 
-Aurora Recommender AI is a **content-based movie recommendation system** that suggests similar movies based on movie descriptions.
-The system uses **Natural Language Processing (NLP)** techniques and **cosine similarity** to analyze movie metadata and recommend relevant content.
-
-Users can instantly discover movies that are similar in theme, storyline, and context through an interactive **Streamlit web application**.
+🔗 https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
 
 ---
 
-## 🚀 Key Features
+# 📌 Project Overview
 
-* Content-Based Movie Recommendation
-* TF-IDF Vectorization for text analysis
-* Cosine Similarity based recommendation engine
-* Real-time recommendation results
-* Clean and interactive Streamlit interface
-* Similarity score display
-* Fully deployed web application
+Aurora Recommender AI is a **Content-Based Movie Recommendation System** built using **Natural Language Processing (NLP)** techniques.
+
+The system analyzes movie descriptions using **TF-IDF vectorization** and calculates **cosine similarity** to recommend similar movies instantly.
+
+The project is deployed using **Streamlit**, providing a clean and interactive user interface for exploring recommendations.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Key Features
 
-| Category             | Technology           |
-| -------------------- | -------------------- |
-| Programming Language | Python               |
-| Data Processing      | Pandas, NumPy        |
-| Machine Learning     | Scikit-learn         |
-| NLP Technique        | TF-IDF Vectorization |
-| Similarity Algorithm | Cosine Similarity    |
-| Web Framework        | Streamlit            |
-| Version Control      | Git & GitHub         |
+✨ Content-Based Recommendation System
+🧠 TF-IDF Vectorization for NLP
+📊 Cosine Similarity Recommendation Engine
+⚡ Real-Time Movie Recommendations
+🎨 Interactive Streamlit Interface
+📈 Similarity Score Display
+🌐 Fully Deployed Web Application
 
 ---
 
-## ⚙️ How the System Works
+# 🛠 Tech Stack
 
-1. Movie dataset is loaded and preprocessed.
-2. Movie descriptions are transformed into **TF-IDF vectors**.
-3. Cosine similarity is calculated between movies.
-4. Similar movies are ranked based on similarity score.
-5. Top recommendations are displayed through the Streamlit interface.
+### Programming Language
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-## 📂 Project Structure
+### Data Processing
 
-```text id="az0w9q"
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+
+---
+
+### Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+
+---
+
+### Natural Language Processing
+
+![TF-IDF](https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge)
+
+---
+
+### Web Framework
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+
+---
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+# ⚙️ How the System Works
+
+1️⃣ Movie dataset is collected and cleaned
+2️⃣ Movie descriptions are converted into **TF-IDF vectors**
+3️⃣ Cosine similarity is calculated between movies
+4️⃣ Similar movies are ranked based on similarity score
+5️⃣ Results are displayed using **Streamlit web interface**
+
+---
+
+# 📂 Project Structure
+
+```text
 Netflix-Recommendation-System
 │
-├── app.py                # Streamlit web application
-├── main.ipynb            # Model development notebook
-├── df.pkl                # Processed movie dataset
-├── tfidf_matrix.pkl      # TF-IDF feature matrix
-├── movie_indices.pkl     # Movie index mapping
-├── requirements.txt      # Project dependencies
+├── app.py
+├── main.ipynb
+├── df.pkl
+├── tfidf_matrix.pkl
+├── movie_indices.pkl
+├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## ▶️ Run the Project Locally
+# ▶️ Run Locally
 
 Clone the repository
 
-```id="zj0o4m"
+```
 git clone https://github.com/omkar834-droidk/Netflix-Recommendation-System.git
 cd Netflix-Recommendation-System
 ```
 
 Install dependencies
 
-```id="1tm1za"
+```
 pip install -r requirements.txt
 ```
 
 Run the application
 
-```id="ikyyum"
+```
 streamlit run app.py
 ```
 
 ---
 
-## 🌐 Live Application
+# 🎯 Future Improvements
 
-https://netflix-recommendation-system-zsf5uvvrasb88ck5v8tf2d.streamlit.app/
-
----
-
-## 🎯 Future Improvements
-
-* Add movie posters using TMDB API
-* Implement hybrid recommendation system
-* Add personalized user recommendations
-* Integrate transformer-based embeddings (BERT)
-* Improve recommendation accuracy
+🚀 Add Movie Posters using TMDB API
+🚀 Hybrid Recommendation System
+🚀 Personalized User Recommendations
+🚀 BERT Based NLP Embeddings
+🚀 Genre Filtering
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Omkar Salunke**
 AI & Data Science Enthusiast
 
-GitHub:
+GitHub
 https://github.com/omkar834-droidk
 
 ---
 
-## ⭐ Support
+# ⭐ Support the Project
 
-If you found this project useful, consider giving it a **star ⭐ on GitHub**.
+If you like this project, give it a **star ⭐ on GitHub**.
